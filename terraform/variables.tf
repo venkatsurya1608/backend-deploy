@@ -19,3 +19,7 @@ variable "zone_name" {
     default = "venkatdevops1608.online"
   
 }
+
+variable "app_version" {
+  
+}
